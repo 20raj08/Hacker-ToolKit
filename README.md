@@ -21,12 +21,16 @@ Download the respository as zip or using git in command line
 git clone https://github.com/20raj08/Hacker-ToolKit.git
 
 After changing the directory, install python packages using pip with the required file "requirements.txt"
+
 pip3 install -r requirements.txt
 
 Change the python file to an executable using the following
+
 chmod +x ./Script.py
 
+
 Run the python script
+
 
 ./Script.py
 
