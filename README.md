@@ -17,6 +17,7 @@ Regular updates with new features and improvements
 
 # Installation
 Download the respository as zip or using git in command line
+
 git clone https://github.com/20raj08/Hacker-ToolKit.git
 
 After changing the directory, install python packages using pip with the required file "requirements.txt"
