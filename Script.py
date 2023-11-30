@@ -355,10 +355,12 @@ try:
                         if ch==1:
                             subprocess.run("clear", shell=True)
                             print("\t")
+                            loading_animation()
                             print("Starting WHOAMI . . . ")
                             time.sleep(1)
                             os.system("sudo kali-whomai --start")
-                            input("Press enter to continue") 
+                            input("Press enter to continue")
+                            
 except Exception as e:
     print(f"An error occurred: {e}")
        
