@@ -1,6 +1,5 @@
 # Hacker-ToolKit
-This Python script serves as a versatile toolkit designed to automate various tasks and services related to ethical hacking and cybersecurity.
-
+This Python script serves as a versatile toolkit designed to automate various tasks and services.
 # Note
 Please be aware that this script is currently under development. I am actively working on refining and enhancing the codebase to ensure its efficiency and reliability. Some features may still be in progress, and updates will be provided regularly.
 
