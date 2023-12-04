@@ -1,0 +1,9 @@
+colorama
+ast
+re
+subprocess
+os
+time
+urllib
+sys
+itertools
