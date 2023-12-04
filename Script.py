@@ -37,7 +37,7 @@ try:
            / /___/ /_/ /  / /_/ /_/ /  / / / // /_/ // /__ / ,<  (__  ) 
           /_____/\__,_/  /___/\__, /  /_/ /_/ \__,_/ \___//_/|_|/____/  
                             /____/                                      
-                                                        By: Balraj Singh""")           
+                                                        """)           
 
     # sets the text color to white
     subprocess.run("tput setaf 7",shell=True)
