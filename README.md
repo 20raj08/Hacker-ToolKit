@@ -40,7 +40,7 @@ python3 Script.py
 
 
 # Credits
-Thanks to Rizer0 and owerdogan for inspiring me to create this python script. 
+Thanks to Rizer0 and owerdogan for inspiring me to create this python script. Thank you
 
 
 
