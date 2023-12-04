@@ -6,6 +6,8 @@ Please be aware that this script is currently under development. I'm working on 
 # Disclaimer
 This toolkit is intended for educational and ethical use only. I'm not responsible for any misuse or illegal activities conducted with this script. Users are advised to adhere to applicable laws and regulations while utilizing the tools and functionalities provided by Hacker-ToolKit.
 
+The script is not finalized yet.
+
 Use this script responsibly and at your own risk.
 
 # Features
