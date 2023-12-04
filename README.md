@@ -1,7 +1,7 @@
 # Hacker-ToolKit
 This Python script serves as a versatile toolkit designed to automate various tasks and services.
 # Note
-Please be aware that this script is currently under development. I am actively working on refining and enhancing the codebase to ensure its efficiency and reliability. Some features may still be in progress, and updates will be provided regularly.
+Please be aware that this script is currently under development. I am actively working on refining and enhancing the codebase to ensure its efficiency and reliability. Some features may still be in progress, and updates will be provided.
 
 # Disclaimer
 This toolkit is intended for educational and ethical use only. I'm not responsible for any misuse or illegal activities conducted with this script. Users are advised to adhere to applicable laws and regulations while utilizing the tools and functionalities provided by Hacker-ToolKit.
