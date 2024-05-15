@@ -10,6 +10,8 @@ The script is not finalized yet.
 
 Use this script responsibly and at your own risk.
 
+DON'T BE A SKID!!!
+
 # Features
 Automation of common pentesting tasks
 Integration with various tools and services
