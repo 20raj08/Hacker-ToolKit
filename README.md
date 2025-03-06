@@ -44,7 +44,7 @@ python3 Script.py
 
 
 # Credits
-Thanks to Rizer0 and owerdogan for the scripts!
+Inspired by Rizer0 and owerdogan scripts
 
 
 
