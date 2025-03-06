@@ -55,6 +55,7 @@ try:
             8. Start whoami service
             9. Enable NetworkManager service
            10. Pentest-GPT
+           11. Lazy script
            99. Exit """)
 
         ch=int(input("Enter your choice: ")) 
